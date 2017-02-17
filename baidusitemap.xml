@@ -31,12 +31,12 @@
     
     
   <url>
-    <loc>https://12669054.github.io/etesting/Tools/sed-awk/sed-manual/</loc>
+    <loc>https://12669054.github.io/etesting/Tools/sed-awk/sed-functions/</loc>
     <lastmod>2017-02-17T08:20:24.595Z</lastmod>
     <data>
         <display>
-        <title>sed 学习手册</title>
-        <pubTime>2016-09-23T06:30:15.000Z</pubTime>
+        <title>sed 函数参数</title>
+        <pubTime>2016-09-23T06:33:06.000Z</pubTime>
         
         <tag>sed</tag>
          
@@ -54,12 +54,12 @@
 
     
   <url>
-    <loc>https://12669054.github.io/etesting/Tools/sed-awk/sed-functions/</loc>
+    <loc>https://12669054.github.io/etesting/Tools/sed-awk/sed-manual/</loc>
     <lastmod>2017-02-17T08:20:24.595Z</lastmod>
     <data>
         <display>
-        <title>sed 函数参数</title>
-        <pubTime>2016-09-23T06:33:06.000Z</pubTime>
+        <title>sed 学习手册</title>
+        <pubTime>2016-09-23T06:30:15.000Z</pubTime>
         
         <tag>sed</tag>
          
@@ -127,16 +127,16 @@
 
     
   <url>
-    <loc>https://12669054.github.io/etesting/Estuary/Documents/lmbench-latency/</loc>
+    <loc>https://12669054.github.io/etesting/Estuary/Documents/lxc-for-centos/</loc>
     <lastmod>2017-02-17T08:20:24.595Z</lastmod>
     <data>
         <display>
-        <title>Lmbench-latency</title>
-        <pubTime>2016-12-28T08:22:52.000Z</pubTime>
+        <title>lxc for centos</title>
+        <pubTime>2017-01-11T16:00:00.000Z</pubTime>
         
-        <tag>D05</tag>
-         
         <tag>CentOS</tag>
+         
+        <tag>lxc</tag>
          
          
            
@@ -152,16 +152,16 @@
 
     
   <url>
-    <loc>https://12669054.github.io/etesting/Estuary/Documents/lxc-for-centos/</loc>
+    <loc>https://12669054.github.io/etesting/Estuary/Documents/lmbench-latency/</loc>
     <lastmod>2017-02-17T08:20:24.595Z</lastmod>
     <data>
         <display>
-        <title>lxc for centos</title>
-        <pubTime>2017-01-11T16:00:00.000Z</pubTime>
+        <title>Lmbench-latency</title>
+        <pubTime>2016-12-28T08:22:52.000Z</pubTime>
         
-        <tag>CentOS</tag>
+        <tag>D05</tag>
          
-        <tag>lxc</tag>
+        <tag>CentOS</tag>
          
          
            
@@ -391,6 +391,29 @@
 
     
   <url>
+    <loc>https://12669054.github.io/etesting/Tools/VCS/everyday-git/</loc>
+    <lastmod>2017-02-17T08:20:24.591Z</lastmod>
+    <data>
+        <display>
+        <title>开发者日常使用的 Git 命令</title>
+        <pubTime>2016-09-22T08:31:13.000Z</pubTime>
+        
+        <tag>git</tag>
+         
+         
+           
+             
+              <breadCrumb title="Tools" url="https://12669054.github.io/etesting/categories/Tools/"/>
+          
+             
+              <breadCrumb title="VCS" url="https://12669054.github.io/etesting/categories/Tools/VCS/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://12669054.github.io/etesting/Estuary/Documents/Readme.4D02/</loc>
     <lastmod>2017-02-17T08:20:24.591Z</lastmod>
     <data>
@@ -437,16 +460,18 @@
 
     
   <url>
-    <loc>https://12669054.github.io/etesting/Estuary/Documents/ftp-on-centos/</loc>
+    <loc>https://12669054.github.io/etesting/Estuary/Documents/Introduction_for_Docker/</loc>
     <lastmod>2017-02-17T08:20:24.591Z</lastmod>
     <data>
         <display>
-        <title>FTP on Centos 7</title>
-        <pubTime>2016-09-20T06:46:04.000Z</pubTime>
+        <title>Introduction_for_Docker</title>
+        <pubTime>2016-10-10T02:10:01.000Z</pubTime>
         
-        <tag>CentOS</tag>
+        <tag>D05</tag>
          
-        <tag>FTP</tag>
+        <tag>D02</tag>
+         
+        <tag>D03</tag>
          
          
            
@@ -462,41 +487,16 @@
 
     
   <url>
-    <loc>https://12669054.github.io/etesting/Tools/VCS/everyday-git/</loc>
+    <loc>https://12669054.github.io/etesting/Estuary/Documents/ftp-on-centos/</loc>
     <lastmod>2017-02-17T08:20:24.591Z</lastmod>
     <data>
         <display>
-        <title>开发者日常使用的 Git 命令</title>
-        <pubTime>2016-09-22T08:31:13.000Z</pubTime>
+        <title>FTP on Centos 7</title>
+        <pubTime>2016-09-20T06:46:04.000Z</pubTime>
         
-        <tag>git</tag>
+        <tag>CentOS</tag>
          
-         
-           
-             
-              <breadCrumb title="Tools" url="https://12669054.github.io/etesting/categories/Tools/"/>
-          
-             
-              <breadCrumb title="VCS" url="https://12669054.github.io/etesting/categories/Tools/VCS/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://12669054.github.io/etesting/Estuary/Documents/Introduction_for_Docker/</loc>
-    <lastmod>2017-02-17T08:20:24.591Z</lastmod>
-    <data>
-        <display>
-        <title>Introduction_for_Docker</title>
-        <pubTime>2016-10-10T02:10:01.000Z</pubTime>
-        
-        <tag>D05</tag>
-         
-        <tag>D02</tag>
-         
-        <tag>D03</tag>
+        <tag>FTP</tag>
          
          
            
@@ -564,31 +564,6 @@
 
     
   <url>
-    <loc>https://12669054.github.io/etesting/Estuary/Documents/Netperf/</loc>
-    <lastmod>2017-02-17T08:20:24.591Z</lastmod>
-    <data>
-        <display>
-        <title>Netperf</title>
-        <pubTime>2016-12-30T06:25:32.000Z</pubTime>
-        
-        <tag>D05</tag>
-         
-        <tag>CentOS</tag>
-         
-         
-           
-             
-              <breadCrumb title="Estuary" url="https://12669054.github.io/etesting/categories/Estuary/"/>
-          
-             
-              <breadCrumb title="Documents" url="https://12669054.github.io/etesting/categories/Estuary/Documents/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>https://12669054.github.io/etesting/Estuary/Documents/Nginx/</loc>
     <lastmod>2017-02-17T08:20:24.591Z</lastmod>
     <data>
@@ -614,12 +589,12 @@
 
     
   <url>
-    <loc>https://12669054.github.io/etesting/Estuary/Documents/Openblas/</loc>
+    <loc>https://12669054.github.io/etesting/Estuary/Documents/Netperf/</loc>
     <lastmod>2017-02-17T08:20:24.591Z</lastmod>
     <data>
         <display>
-        <title>Openblas</title>
-        <pubTime>2016-12-30T01:36:50.000Z</pubTime>
+        <title>Netperf</title>
+        <pubTime>2016-12-30T06:25:32.000Z</pubTime>
         
         <tag>D05</tag>
          
@@ -645,6 +620,31 @@
         <display>
         <title>Percona</title>
         <pubTime>2016-12-30T03:33:46.000Z</pubTime>
+        
+        <tag>D05</tag>
+         
+        <tag>CentOS</tag>
+         
+         
+           
+             
+              <breadCrumb title="Estuary" url="https://12669054.github.io/etesting/categories/Estuary/"/>
+          
+             
+              <breadCrumb title="Documents" url="https://12669054.github.io/etesting/categories/Estuary/Documents/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://12669054.github.io/etesting/Estuary/Documents/Openblas/</loc>
+    <lastmod>2017-02-17T08:20:24.591Z</lastmod>
+    <data>
+        <display>
+        <title>Openblas</title>
+        <pubTime>2016-12-30T01:36:50.000Z</pubTime>
         
         <tag>D05</tag>
          
@@ -785,11 +785,11 @@
 
     
   <url>
-    <loc>https://12669054.github.io/etesting/Estuary/Documents/README.armor.kgdb.kdb/</loc>
+    <loc>https://12669054.github.io/etesting/Estuary/Documents/README.armor.lttng/</loc>
     <lastmod>2017-02-17T08:20:24.591Z</lastmod>
     <data>
         <display>
-        <title>README.armor.kgdb.kdb</title>
+        <title>README.armor.lttng</title>
         <pubTime>2016-10-10T02:10:01.000Z</pubTime>
         
         <tag>D05</tag>
@@ -812,11 +812,11 @@
 
     
   <url>
-    <loc>https://12669054.github.io/etesting/Estuary/Documents/README.armor.lttng/</loc>
+    <loc>https://12669054.github.io/etesting/Estuary/Documents/README.armor.kgdb.kdb/</loc>
     <lastmod>2017-02-17T08:20:24.591Z</lastmod>
     <data>
         <display>
-        <title>README.armor.lttng</title>
+        <title>README.armor.kgdb.kdb</title>
         <pubTime>2016-10-10T02:10:01.000Z</pubTime>
         
         <tag>D05</tag>
@@ -866,13 +866,15 @@
 
     
   <url>
-    <loc>https://12669054.github.io/etesting/Estuary/Documents/armor-test/</loc>
+    <loc>https://12669054.github.io/etesting/Estuary/Documents/UEFI_Manual.4D05/</loc>
     <lastmod>2017-02-17T08:20:24.591Z</lastmod>
     <data>
         <display>
-        <title>Armor test</title>
-        <pubTime>2017-01-18T02:33:21.000Z</pubTime>
+        <title>UEFI_Manual.4D05</title>
+        <pubTime>2016-12-23T16:00:00.000Z</pubTime>
         
+        <tag>D05</tag>
+         
          
            
              
@@ -933,14 +935,14 @@
 
     
   <url>
-    <loc>https://12669054.github.io/etesting/Estuary/Documents/Readme.4HiKey/</loc>
+    <loc>https://12669054.github.io/etesting/Estuary/Documents/Readme.4QEMU/</loc>
     <lastmod>2017-02-17T08:20:24.591Z</lastmod>
     <data>
         <display>
-        <title>Readme.4HiKey</title>
-        <pubTime>2016-10-10T02:08:01.000Z</pubTime>
+        <title>Readme.4QEMU</title>
+        <pubTime>2016-10-10T02:06:01.000Z</pubTime>
         
-        <tag>HiKey</tag>
+        <tag>QEMU</tag>
          
          
            
@@ -956,14 +958,14 @@
 
     
   <url>
-    <loc>https://12669054.github.io/etesting/Estuary/Documents/Readme.4QEMU/</loc>
+    <loc>https://12669054.github.io/etesting/Estuary/Documents/Readme.4HiKey/</loc>
     <lastmod>2017-02-17T08:20:24.591Z</lastmod>
     <data>
         <display>
-        <title>Readme.4QEMU</title>
-        <pubTime>2016-10-10T02:06:01.000Z</pubTime>
+        <title>Readme.4HiKey</title>
+        <pubTime>2016-10-10T02:08:01.000Z</pubTime>
         
-        <tag>QEMU</tag>
+        <tag>HiKey</tag>
          
          
            
@@ -1206,15 +1208,13 @@
 
     
   <url>
-    <loc>https://12669054.github.io/etesting/Estuary/Documents/UEFI_Manual.4D05/</loc>
+    <loc>https://12669054.github.io/etesting/Estuary/Documents/armor-test/</loc>
     <lastmod>2017-02-17T08:20:24.591Z</lastmod>
     <data>
         <display>
-        <title>UEFI_Manual.4D05</title>
-        <pubTime>2016-12-23T16:00:00.000Z</pubTime>
+        <title>Armor test</title>
+        <pubTime>2017-01-18T02:33:21.000Z</pubTime>
         
-        <tag>D05</tag>
-         
          
            
              
@@ -1347,21 +1347,24 @@
 
     
   <url>
-    <loc>https://12669054.github.io/etesting/Estuary/Grub_Manual.4All/</loc>
+    <loc>https://12669054.github.io/etesting/Estuary/Documents/Hibench/</loc>
     <lastmod>2017-02-17T08:20:24.583Z</lastmod>
     <data>
         <display>
-        <title>Grub_Manual.4ALL</title>
-        <pubTime>2016-12-23T16:00:00.000Z</pubTime>
+        <title>Hibench</title>
+        <pubTime>2016-12-30T01:46:32.000Z</pubTime>
         
         <tag>D05</tag>
          
-        <tag>D03</tag>
+        <tag>CentOS</tag>
          
          
            
              
               <breadCrumb title="Estuary" url="https://12669054.github.io/etesting/categories/Estuary/"/>
+          
+             
+              <breadCrumb title="Documents" url="https://12669054.github.io/etesting/categories/Estuary/Documents/"/>
           
         </display>
     </data>
@@ -1396,14 +1399,36 @@
 
     
   <url>
-    <loc>https://12669054.github.io/etesting/Estuary/Documents/Deploy_Manual.4D05/</loc>
+    <loc>https://12669054.github.io/etesting/Estuary/Grub_Manual.4All/</loc>
     <lastmod>2017-02-17T08:20:24.583Z</lastmod>
     <data>
         <display>
-        <title>Deploy_Manual.4D05</title>
+        <title>Grub_Manual.4ALL</title>
         <pubTime>2016-12-23T16:00:00.000Z</pubTime>
         
         <tag>D05</tag>
+         
+        <tag>D03</tag>
+         
+         
+           
+             
+              <breadCrumb title="Estuary" url="https://12669054.github.io/etesting/categories/Estuary/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://12669054.github.io/etesting/Estuary/Documents/Deploy_Manual.4HiKey/</loc>
+    <lastmod>2017-02-17T08:20:24.583Z</lastmod>
+    <data>
+        <display>
+        <title>Deploy_Manual.4HiKey</title>
+        <pubTime>2016-10-10T02:08:01.000Z</pubTime>
+        
+        <tag>HiKey</tag>
          
          
            
@@ -1442,62 +1467,14 @@
 
     
   <url>
-    <loc>https://12669054.github.io/etesting/Estuary/Documents/Deploy_Manual.4HiKey/</loc>
+    <loc>https://12669054.github.io/etesting/Estuary/Documents/Deploy_Manual.4D05/</loc>
     <lastmod>2017-02-17T08:20:24.583Z</lastmod>
     <data>
         <display>
-        <title>Deploy_Manual.4HiKey</title>
-        <pubTime>2016-10-10T02:08:01.000Z</pubTime>
-        
-        <tag>HiKey</tag>
-         
-         
-           
-             
-              <breadCrumb title="Estuary" url="https://12669054.github.io/etesting/categories/Estuary/"/>
-          
-             
-              <breadCrumb title="Documents" url="https://12669054.github.io/etesting/categories/Estuary/Documents/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://12669054.github.io/etesting/Estuary/Documents/Hibench/</loc>
-    <lastmod>2017-02-17T08:20:24.583Z</lastmod>
-    <data>
-        <display>
-        <title>Hibench</title>
-        <pubTime>2016-12-30T01:46:32.000Z</pubTime>
-        
-        <tag>D05</tag>
-         
-        <tag>CentOS</tag>
-         
-         
-           
-             
-              <breadCrumb title="Estuary" url="https://12669054.github.io/etesting/categories/Estuary/"/>
-          
-             
-              <breadCrumb title="Documents" url="https://12669054.github.io/etesting/categories/Estuary/Documents/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://12669054.github.io/etesting/Estuary/Documents/Deploy_Manual.4D03/</loc>
-    <lastmod>2017-02-17T08:20:24.583Z</lastmod>
-    <data>
-        <display>
-        <title>Deploy_Manual.4D03</title>
+        <title>Deploy_Manual.4D05</title>
         <pubTime>2016-12-23T16:00:00.000Z</pubTime>
         
-        <tag>D03</tag>
+        <tag>D05</tag>
          
          
            
@@ -1521,6 +1498,29 @@
         <pubTime>2016-10-13T02:07:01.000Z</pubTime>
         
         <tag>D02</tag>
+         
+         
+           
+             
+              <breadCrumb title="Estuary" url="https://12669054.github.io/etesting/categories/Estuary/"/>
+          
+             
+              <breadCrumb title="Documents" url="https://12669054.github.io/etesting/categories/Estuary/Documents/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://12669054.github.io/etesting/Estuary/Documents/Deploy_Manual.4D03/</loc>
+    <lastmod>2017-02-17T08:20:24.583Z</lastmod>
+    <data>
+        <display>
+        <title>Deploy_Manual.4D03</title>
+        <pubTime>2016-12-23T16:00:00.000Z</pubTime>
+        
+        <tag>D03</tag>
          
          
            
@@ -1638,6 +1638,26 @@
 
     
   <url>
+    <loc>https://12669054.github.io/etesting/Misc/Branches-of-test-definitions-repository/</loc>
+    <lastmod>2017-02-17T08:20:24.559Z</lastmod>
+    <data>
+        <display>
+        <title>Branches of test-definitions repository</title>
+        <pubTime>2017-02-09T06:30:27.000Z</pubTime>
+        
+        <tag>git</tag>
+         
+         
+           
+             
+              <breadCrumb title="Misc" url="https://12669054.github.io/etesting/categories/Misc/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://12669054.github.io/etesting/Estuary/Documents/CoreMark/</loc>
     <lastmod>2017-02-17T08:20:24.559Z</lastmod>
     <data>
@@ -1683,26 +1703,6 @@
           
              
               <breadCrumb title="Documents" url="https://12669054.github.io/etesting/categories/Estuary/Documents/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://12669054.github.io/etesting/Misc/Branches-of-test-definitions-repository/</loc>
-    <lastmod>2017-02-17T08:20:24.559Z</lastmod>
-    <data>
-        <display>
-        <title>Branches of test-definitions repository</title>
-        <pubTime>2017-02-09T06:30:27.000Z</pubTime>
-        
-        <tag>git</tag>
-         
-         
-           
-             
-              <breadCrumb title="Misc" url="https://12669054.github.io/etesting/categories/Misc/"/>
           
         </display>
     </data>

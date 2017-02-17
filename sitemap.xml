@@ -16,14 +16,7 @@
   </url>
   
   <url>
-    <loc>https://12669054.github.io/about/index.html</loc>
-    
-    <lastmod>2017-02-17T08:20:24.595Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://12669054.github.io/etesting/Tools/sed-awk/sed-manual/</loc>
+    <loc>https://12669054.github.io/categories/index.html</loc>
     
     <lastmod>2017-02-17T08:20:24.595Z</lastmod>
     
@@ -31,6 +24,13 @@
   
   <url>
     <loc>https://12669054.github.io/etesting/Tools/sed-awk/sed-functions/</loc>
+    
+    <lastmod>2017-02-17T08:20:24.595Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://12669054.github.io/etesting/Tools/sed-awk/sed-manual/</loc>
     
     <lastmod>2017-02-17T08:20:24.595Z</lastmod>
     
@@ -51,13 +51,6 @@
   </url>
   
   <url>
-    <loc>https://12669054.github.io/etesting/Estuary/Documents/lmbench-latency/</loc>
-    
-    <lastmod>2017-02-17T08:20:24.595Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://12669054.github.io/etesting/Estuary/Documents/lxc-for-centos/</loc>
     
     <lastmod>2017-02-17T08:20:24.595Z</lastmod>
@@ -65,7 +58,14 @@
   </url>
   
   <url>
-    <loc>https://12669054.github.io/categories/index.html</loc>
+    <loc>https://12669054.github.io/etesting/Estuary/Documents/lmbench-latency/</loc>
+    
+    <lastmod>2017-02-17T08:20:24.595Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://12669054.github.io/about/index.html</loc>
     
     <lastmod>2017-02-17T08:20:24.595Z</lastmod>
     
@@ -135,6 +135,13 @@
   </url>
   
   <url>
+    <loc>https://12669054.github.io/etesting/Tools/VCS/everyday-git/</loc>
+    
+    <lastmod>2017-02-17T08:20:24.591Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://12669054.github.io/etesting/Estuary/Documents/Readme.4D02/</loc>
     
     <lastmod>2017-02-17T08:20:24.591Z</lastmod>
@@ -149,21 +156,14 @@
   </url>
   
   <url>
-    <loc>https://12669054.github.io/etesting/Estuary/Documents/ftp-on-centos/</loc>
-    
-    <lastmod>2017-02-17T08:20:24.591Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://12669054.github.io/etesting/Tools/VCS/everyday-git/</loc>
-    
-    <lastmod>2017-02-17T08:20:24.591Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://12669054.github.io/etesting/Estuary/Documents/Introduction_for_Docker/</loc>
+    
+    <lastmod>2017-02-17T08:20:24.591Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://12669054.github.io/etesting/Estuary/Documents/ftp-on-centos/</loc>
     
     <lastmod>2017-02-17T08:20:24.591Z</lastmod>
     
@@ -184,13 +184,6 @@
   </url>
   
   <url>
-    <loc>https://12669054.github.io/etesting/Estuary/Documents/Netperf/</loc>
-    
-    <lastmod>2017-02-17T08:20:24.591Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://12669054.github.io/etesting/Estuary/Documents/Nginx/</loc>
     
     <lastmod>2017-02-17T08:20:24.591Z</lastmod>
@@ -198,7 +191,7 @@
   </url>
   
   <url>
-    <loc>https://12669054.github.io/etesting/Estuary/Documents/Openblas/</loc>
+    <loc>https://12669054.github.io/etesting/Estuary/Documents/Netperf/</loc>
     
     <lastmod>2017-02-17T08:20:24.591Z</lastmod>
     
@@ -206,6 +199,13 @@
   
   <url>
     <loc>https://12669054.github.io/etesting/Estuary/Documents/Percona/</loc>
+    
+    <lastmod>2017-02-17T08:20:24.591Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://12669054.github.io/etesting/Estuary/Documents/Openblas/</loc>
     
     <lastmod>2017-02-17T08:20:24.591Z</lastmod>
     
@@ -247,14 +247,14 @@
   </url>
   
   <url>
-    <loc>https://12669054.github.io/etesting/Estuary/Documents/README.armor.kgdb.kdb/</loc>
+    <loc>https://12669054.github.io/etesting/Estuary/Documents/README.armor.lttng/</loc>
     
     <lastmod>2017-02-17T08:20:24.591Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://12669054.github.io/etesting/Estuary/Documents/README.armor.lttng/</loc>
+    <loc>https://12669054.github.io/etesting/Estuary/Documents/README.armor.kgdb.kdb/</loc>
     
     <lastmod>2017-02-17T08:20:24.591Z</lastmod>
     
@@ -268,7 +268,7 @@
   </url>
   
   <url>
-    <loc>https://12669054.github.io/etesting/Estuary/Documents/armor-test/</loc>
+    <loc>https://12669054.github.io/etesting/Estuary/Documents/UEFI_Manual.4D05/</loc>
     
     <lastmod>2017-02-17T08:20:24.591Z</lastmod>
     
@@ -289,14 +289,14 @@
   </url>
   
   <url>
-    <loc>https://12669054.github.io/etesting/Estuary/Documents/Readme.4HiKey/</loc>
+    <loc>https://12669054.github.io/etesting/Estuary/Documents/Readme.4QEMU/</loc>
     
     <lastmod>2017-02-17T08:20:24.591Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://12669054.github.io/etesting/Estuary/Documents/Readme.4QEMU/</loc>
+    <loc>https://12669054.github.io/etesting/Estuary/Documents/Readme.4HiKey/</loc>
     
     <lastmod>2017-02-17T08:20:24.591Z</lastmod>
     
@@ -366,7 +366,7 @@
   </url>
   
   <url>
-    <loc>https://12669054.github.io/etesting/Estuary/Documents/UEFI_Manual.4D05/</loc>
+    <loc>https://12669054.github.io/etesting/Estuary/Documents/armor-test/</loc>
     
     <lastmod>2017-02-17T08:20:24.591Z</lastmod>
     
@@ -408,7 +408,7 @@
   </url>
   
   <url>
-    <loc>https://12669054.github.io/etesting/Estuary/Grub_Manual.4All/</loc>
+    <loc>https://12669054.github.io/etesting/Estuary/Documents/Hibench/</loc>
     
     <lastmod>2017-02-17T08:20:24.583Z</lastmod>
     
@@ -422,14 +422,7 @@
   </url>
   
   <url>
-    <loc>https://12669054.github.io/etesting/Estuary/Documents/Deploy_Manual.4D05/</loc>
-    
-    <lastmod>2017-02-17T08:20:24.583Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://12669054.github.io/etesting/Estuary/Documents/Deploy_Manual.overdrive/</loc>
+    <loc>https://12669054.github.io/etesting/Estuary/Grub_Manual.4All/</loc>
     
     <lastmod>2017-02-17T08:20:24.583Z</lastmod>
     
@@ -443,14 +436,14 @@
   </url>
   
   <url>
-    <loc>https://12669054.github.io/etesting/Estuary/Documents/Hibench/</loc>
+    <loc>https://12669054.github.io/etesting/Estuary/Documents/Deploy_Manual.overdrive/</loc>
     
     <lastmod>2017-02-17T08:20:24.583Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://12669054.github.io/etesting/Estuary/Documents/Deploy_Manual.4D03/</loc>
+    <loc>https://12669054.github.io/etesting/Estuary/Documents/Deploy_Manual.4D05/</loc>
     
     <lastmod>2017-02-17T08:20:24.583Z</lastmod>
     
@@ -458,6 +451,13 @@
   
   <url>
     <loc>https://12669054.github.io/etesting/Estuary/Documents/Deploy_Manual.4D02/</loc>
+    
+    <lastmod>2017-02-17T08:20:24.583Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://12669054.github.io/etesting/Estuary/Documents/Deploy_Manual.4D03/</loc>
     
     <lastmod>2017-02-17T08:20:24.583Z</lastmod>
     
@@ -492,6 +492,13 @@
   </url>
   
   <url>
+    <loc>https://12669054.github.io/etesting/Misc/Branches-of-test-definitions-repository/</loc>
+    
+    <lastmod>2017-02-17T08:20:24.559Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://12669054.github.io/etesting/Estuary/Documents/CoreMark/</loc>
     
     <lastmod>2017-02-17T08:20:24.559Z</lastmod>
@@ -500,13 +507,6 @@
   
   <url>
     <loc>https://12669054.github.io/etesting/Estuary/Documents/Caliper_Manual.4All/</loc>
-    
-    <lastmod>2017-02-17T08:20:24.559Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://12669054.github.io/etesting/Misc/Branches-of-test-definitions-repository/</loc>
     
     <lastmod>2017-02-17T08:20:24.559Z</lastmod>
     
