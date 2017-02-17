@@ -12,7 +12,7 @@ timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://jarsonfang.github.io
+url: https://12669054.github.io
 root: /etesting/
 permalink: :category/:title/
 permalink_defaults:
@@ -94,7 +94,7 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:jarsonfang/etesting.git
+  repo: https://github.com/12669054/etesting.git
   branch: gh-pages
 
 # Search
